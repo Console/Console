@@ -1,5 +1,11 @@
 ### Hi there 👋
+
 Ooh, I found a ✨ _secret_ ✨!
+
+You can reach me on:
+
+🐦 Twitter: [@Scriptmonkey_](https://www.twitter.com/Scriptmonkey_)
+🕸️ Website/Blog: [blog.scriptmonkey.eu](https://blog.scriptmonkey.eu)
 
 <!--
 **Console/Console** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
