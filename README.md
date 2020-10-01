@@ -1,4 +1,5 @@
 ### Hi there 👋
+Ooh, I found a ✨ _secret_ ✨!
 
 <!--
 **Console/Console** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
