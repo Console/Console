@@ -4,7 +4,7 @@ You can reach me on:
 
 🐦 Twitter: [@Scriptmonkey_](https://www.twitter.com/Scriptmonkey_)
 
-🕸️ Website/Blog: [blog.scriptmonkey.eu](https://blog.scriptmonkey.eu)
+🕸️ Website/Blog: [blog.scriptmonkey.uk](https://blog.scriptmonkey.uk)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?count_private=true&username=Console&show_icons=true&theme=dark)
 
