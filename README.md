@@ -6,8 +6,6 @@ You can reach me on:
 
 🕸️ Website/Blog: [blog.scriptmonkey.uk](https://blog.scriptmonkey.uk)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?count_private=true&username=Console&show_icons=true&theme=dark)
-
 <!--
 **Console/Console** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
